@@ -3,3 +3,4 @@ Lion
 Dear
 Tiger
 Parrot
+rider
