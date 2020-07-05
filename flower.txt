@@ -3,4 +3,8 @@ Olive
 Flora
 Poppy
 Lotus
+<<<<<<< HEAD
 jasmine
+=======
+Lilly
+>>>>>>> new-branch
