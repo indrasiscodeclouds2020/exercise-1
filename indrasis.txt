@@ -3,5 +3,3 @@ Banana
 Cherries
 Blueberries
 almonds
-
-This is using for revert commit
