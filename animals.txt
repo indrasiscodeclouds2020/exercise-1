@@ -1,3 +1,5 @@
 Dog
 Lion
 Dear
+Tiger
+Parrot
